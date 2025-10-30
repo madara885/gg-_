@@ -1,0 +1,12 @@
+     20 sh
+     11 txt
+      3 log
+      3 dat
+      2 conf
+      1 so
+      1 md
+      1 hidden_file
+      1 env
+      1 bin
+      1 bash_history
+      1 /project/bin/app
